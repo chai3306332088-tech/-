@@ -1,0 +1,6 @@
+{
+  "name": "地层深潜：穿越恐龙时代",
+  "description": "一部交互式“时间电梯”地层深潜H5应用。通过下滑开凿地层，跨越千万年，从现代地表探索至第四纪冰期、白垩纪、侏罗纪及地球诞生的原始熔岩地层，包含精美扁平剪纸风、震动特效与化石揭秘。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
